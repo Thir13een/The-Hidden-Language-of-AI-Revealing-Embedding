@@ -8,4 +8,5 @@ Example of use
 We compare how BERT treats the word "bank" in two different contexts:
 
 “I went to the bank to deposit money." (financial institution)
+
 “We had a picnic by the river." (river side)
